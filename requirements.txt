@@ -1,0 +1,13 @@
+beautifulsoup4==4.6.0
+bs4==0.0.1
+certifi==2018.1.18
+chardet==3.0.4
+fake-useragent==0.1.8
+future==0.16.0
+idna==2.6
+lxml==4.1.1
+python-telegram-bot==9.0.0
+requests==2.18.4
+urllib3==1.22
+googlemaps==2.5.1
+pprint==0.1
