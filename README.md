@@ -9,3 +9,22 @@
 <p align="center">
   A telegram bot that provides real-time worldwide air pollution data at your fingertips, made using <a href="https://python-telegram-bot.org/" rel="noopener noreferrer">python-telegram-bot</a> library.
 </p>
+
+## Description
+This bot allows you to get real-time air quality data based on your geolocation and even lets you search for AQI data by providing city name and more. It provides AQI data for any place over world. It uses the data available from [World Air Qualitiy Index](https://waqi.info/).
+
+
+## Installation
+Install the required dependencies/libraries by running :
+
+```bash
+$ pip install -r requirements.txt
+```
+
+## Usage
+To be able to run this bot, you will need to create a file named ``config.py`` in root directory and save a variable named `bot_token` and pass the token for your bot that you can obtain using [BotFather](https://t.me/BotFather).
+Run using:
+
+```bash
+python bot.py
+```
